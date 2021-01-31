@@ -1,4 +1,4 @@
-# Car-Washing Station - Multi-Threading & Thread Management Implementation
+# Car-Washing Station: Multi-Threading & Thread Management Implementation
 
 About: 
 
