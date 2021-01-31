@@ -22,6 +22,6 @@ Run:
 
 2. Using Linux terminal run the following command:
 
-./memoryManagement <method> <input file> <output file> <main memory size> <secondary memory size>
+./memoryManagement [method] [input file] [output file] [main memory size] [secondary memory size]
 
-* Input file example is in GitHub repository.
+*** Input file example is in GitHub repository.
