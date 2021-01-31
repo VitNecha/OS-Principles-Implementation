@@ -12,10 +12,10 @@ Generally, after user enters the number of wished washing stations the system be
 with fork() call. Each car is entering the washing function where it enters the queue and then checks if there is an
 available washing station: 
 
-	- If there is, the car enters the washing action with prints and sleep (washing simulation). By the end of the
+- If there is, the car enters the washing action with prints and sleep (washing simulation). By the end of the
 		action (car exiting the washing station) the car sends a signal to the next car that waiting in queue (FIFO).
 		
-	- If there isn't, the car waits withing the queue to signal (of continue) to arrive.
+- If there isn't, the car waits withing the queue to signal (of continue) to arrive.
 
 Code explanation:
 
