@@ -6,7 +6,7 @@ Implemented in and for Linux.
 
 Features:
 
-- Indicatea the current working directory using pwd.
+- Indicates the current working directory using pwd.
 
 - cd changes the working directory
 
