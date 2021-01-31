@@ -17,7 +17,7 @@ available washing station:
 		
 - If there isn't, the car waits withing the queue to signal (of continue) to arrive.
 
-Code explanation:
+**Code explanation:**
 
 	- Two signal handlers.
 	
