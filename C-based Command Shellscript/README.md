@@ -4,8 +4,8 @@ C-based shellscript interface that allows you to interact with the kernel of an 
 
 Implemented in and for Linux.
 
->**Features:**
->
+**Features:**
+
 >- Indicates the current working directory using pwd.
 >
 >- cd changes the working directory
@@ -31,8 +31,8 @@ Implemented in and for Linux.
 >- exit terminates your shell process.
 >
 
-Run:
+**Run:**
 
-1. Compile the command_shellscript.c in Linux terminal with gcc.
-
-2. Run ./command_shellscript to open the shellscript.
+>1. Compile the command_shellscript.c in Linux terminal with gcc.
+>
+>2. Run ./command_shellscript to open the shellscript.
