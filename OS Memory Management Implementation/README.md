@@ -4,10 +4,10 @@ OS memory management implemented in C using input.txt file (for reading commands
 
 Available commands: 
 
-- write <memory cell integer> <character> : writes the chosen character into chosen memory cell (number of characters can be attached 
+- write [memory cell integer] [character] : writes the chosen character into chosen memory cell (number of characters can be attached 
 to the same cell, result -> string).
 
-- read <memory cell integer> : reads from chosen memory cell
+- read [memory cell integer] : reads from chosen memory cell
 
 - print : prints the current memory status (all cells with their values)
 
